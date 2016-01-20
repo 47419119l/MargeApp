@@ -1,0 +1,38 @@
+<bookinfo zipIcon="content/images/iconZip.gif" exeIcon="content/images/iconExe.gif" gateway="http://www.flipmall.net/sendmail/email.php" shareUrl="index.html" singlepageMode="true" bgPosition="stretch" bgColor="#C0C0C0 " windowColor="#606060 " rightToLeft="false" autoFlip="false" fitScreenAfterZoom="false" defaultZoomScale="2" autoMoveAfterZoom="false" clickToZoom="singleclick" zoomAfterLoaded="false" limitTo100="false" showZoomBox="true" mouseWheelZoom="false" flipArrow="true" autoFlipSeconds="5" bookmarkWidth="18" bookmarkHeight="150" bookmarkFontSize="10" bgImage="" shadow="true" pageWidth="872" pageHeight="1240" flipSpeedBoost="80" bookSize="10" thickness="0" title="Unidades de transporte de carga" author="MARGE BOOKS" companyName="MARGE BOOKS" companyUrl="http://www.margebooks.com" companyAddress="" tel="" email="" companyLogo="content/images/Marge Books.png" loadingLogo="content/images/Marge Books.png" zipUrl="" exeUrl="" fullScreen="false" hardCover="true" pdfUrl="" lic="mKWgpZJs" password="gbCVcHaloax5" id="Unidades_de_transporte_de_carga" analyticsUA="">
+	<leftmenu showTabBackground="true" visible="true" hideAfterZoom="false">
+		<issues visible="false" icon="content/images/theme/library.png"/>
+		<toc visible="false" icon="content/images/theme/toc.png"/>
+		<thumbs visible="false" icon="content/images/theme/thumb.png"/>
+		<email visible="true" icon="content/images/theme/email.png"/>
+		<sns visible="true" icon="content/images/theme/share.png"/>
+		<print visible="false" icon="content/images/theme/print.png"/>
+		<pdf visible="false" singlePage="true" doublePage="true" entirePDF="false" icon="content/images/theme/pdf.png"/>
+		<download visible="false" icon="content/images/theme/download.png"/>
+		<setting visible="false" icon="content/images/theme/settings.png"/>
+		<about visible="false" icon="content/images/theme/about.png"/>
+		<close visible="true" icon="content/images/theme/close.png"/></leftmenu>
+	<bottommenu background="content/images/menuBackground.png" visible="true" iconSameSize="false" position="top" hideAfterZoom="false" showBackground="true" autoHideOnFullScreen="true">
+		<help visible="false" url="http://www.margebooks.com" icon="content/images/theme/help.png"/>
+		<info visible="false" url="http://www.margebooks.com" icon="content/images/theme/info.png"/>
+		<zoom visible="false" mode="normal" icon="content/images/theme/zoomin.png" dicon="content/images/theme/zoomout.png"/>
+		<autoflip visible="false" icon="content/images/theme/autoflip.png"/>
+		<search visible="true" icon="content/images/theme/search.png"/>
+		<highlight visible="true" icon="content/images/theme/highlight.png"/>
+		<bookmark visible="true" icon="content/images/theme/bookmark.png"/>
+		<notes visible="true" icon="content/images/theme/note.png"/>
+		<fullscreen visible="true" icon="content/images/theme/fullscreen.png" dicon="content/images/theme/exitfullscreen.png"/>
+		<sound visible="false" icon="content/images/theme/audioon.png" dicon="content/images/theme/audiooff.png"/><back visible="false" icon="content/images/theme/back.png"/><forward visible="false" icon="content/images/theme/forward.png"/><firstpage icon="content/images/theme/first.png"/><prevpage icon="content/images/theme/previous.png"/><nextpage icon="content/images/theme/next.png"/><lastpage icon="content/images/theme/last.png"/></bottommenu>
+	<contextmenu>
+	</contextmenu>
+	<tks>
+		<tk begin="1" end="2" value="1"/>
+		<tk begin="3" end="5" value="2"/>
+		<tk begin="6" end="10" value="3"/>
+		<tk begin="11" end="20" value="4"/>
+		<tk begin="21" end="30" value="5"/>
+		<tk begin="31" end="40" value="6"/>
+		<tk begin="41" end="60" value="7"/>
+		<tk begin="61" end="120" value="8"/>
+		<tk begin="121" end="0" value="9"/>
+	</tks>
+	<bottomthumb bgAlpha="0" bgColor="#000000" visible="true"/><tooltip bgColor="#8A8A8A " fgColor="#EBEBEB " showZoomTip="true" showFlipTip="true"/><bookLogo url="content/images/Marge Books.png" href="http://www.margebooks.com"/><rightAd slideShow="true" position="middle"><pic url="content/images/rightad/Catalogo.png" href="http://www.marge.es/Catalogo_ediciones_tecnicas_y_divulgativas/" width="250" height="700" time="10"/><pic url="content/images/rightad/Exportar.png" href="http://www.logisnet.com/es/empresas/transitarios/_activity:407/" width="250" height="700" time="10"/><pic url="content/images/rightad/contenedor.png" href="http://www.margebooks.com/es/242529/transporte-contenedor.htm" width="250" height="700" time="10"/><pic url="content/images/rightad/Catalogo.png" href="http://www.marge.es/Catalogo_de_Medicina_y_Ciencias_de_la_Salud/" width="250" height="700" time="5"/><pic url="content/images/rightad/Catalogo.png" href="http://www.marge.es/Catalogo_ediciones_tecnicas_y_divulgativas/" width="250" height="700" time="10"/><pic url="content/images/rightad/Exportar.png" href="http://www.logisnet.com/es/empresas/transitarios/_activity:407/" width="250" height="700" time="10"/><pic url="content/images/rightad/contenedor.png" href="http://www.margebooks.com/es/242529/transporte-contenedor.htm" width="250" height="700" time="10"/><pic url="content/images/rightad/Catalogo.png" href="http://www.marge.es/Catalogo_de_Medicina_y_Ciencias_de_la_Salud/" width="250" height="700" time="5"/></rightAd></bookinfo>

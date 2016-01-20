@@ -1,0 +1,6 @@
+<sounds>
+	<background enable="true">
+	</background>
+	<flipping url="content/audios/turn.mp3" enable="true">
+	</flipping>
+	<click enable="true" url="content/audios/click.mp3"/></sounds>
